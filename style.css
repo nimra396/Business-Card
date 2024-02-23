@@ -1,29 +1,28 @@
 body{
     height: 100%;
     margin:20px;
-    background-color:rgb(50, 52, 54);
+    background-color:rgb(0, 1, 2);
     margin-top: 200px;
 }
 .card{
     display: flex;
     border: 1px solid gold;
-    background-color: rgb(5, 3, 3);
+    background-color: rgb(0, 0, 0);
     color:rgb(196, 194, 194);
-    width: fit-content;
+    width: 530px;
     padding-left: 25px;
     padding-right: 25px;
     padding-top: 40px;
     padding-bottom: 40px;
-    margin-left: auto;
-    margin-right: auto;
+    margin:0 auto;
     justify-content: space-around;
-}
+    text-align: center;
+    }
+    
 .picture{
     width: 150px;
     margin-right: 30px;
     border-radius: 8px;
     
 }
-.cardContent{
-    text-align: center;
-}
+
